@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QKgmPF1yo7jplll2NSFlZmzqmxEme11RuYE1XEvUDKc=",
+  "Source": "AspNetCoreEmptyWebAppTodo",
+  "BasePath": "_content/AspNetCoreEmptyWebAppTodo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
